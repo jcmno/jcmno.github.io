@@ -1,29 +1,35 @@
 import React from 'react'
 import './Navbar.css'
-import { CiLinkedin, CiInstagram } from "react-icons/ci";
-import { FaGithub } from "react-icons/fa";
-import { MdOutlineMailOutline } from "react-icons/md";
+import { FaEnvelope, FaGithub, FaLinkedin, FaInstagramSquare } from "react-icons/fa";
+import logo from '../../assets/apple-touch-icon.png'
+
 
 const Navbar = () => {
   return (
+    
     <div className = 'navbar'>
-      <img src="" alt="" className = 'logo' />
+      
+      <img src={logo} alt = "logo" className='profile-pic-wrapper' />
+
+      <h1 className="logo-text"> John Camino </h1>
+    
+      <div> 
+        <img src="/profilepic.png" alt="" /> 
+      </div>
+      
       <ul className="taskbar">
         <li>
-             <a href = "https://www.linkedin.com/in/john-aldrix-camino/"> <CiLinkedin/>LinkedIn 
-             </a>
+             <a href = "https://www.linkedin.com/in/john-aldrix-camino/"> <FaLinkedin/></a>
         </li>
         <li> 
-            <a href = "https://github.com/jcmno"> <FaGithub />GitHub
-            </a>    
+            <a href = "https://github.com/jcmno"> <FaGithub /></a>    
         </li>
         <li>
-            <a href = "https://www.instagram.com/john_camino/"><CiInstagram/>Instagram 
-            </a>
+            <a href = "https://www.instagram.com/john_camino/"><FaInstagramSquare/></a>
         </li>
         <li> 
-            <a href="mailto:jcamino@sfu.ca"> <MdOutlineMailOutline />Email
-            </a>
+            <a href="mailto:jcamino@sfu.ca"> <FaEnvelope/> 
+            <span className="smallertext"> Contact me </span></a>
 
         </li>
       </ul>
