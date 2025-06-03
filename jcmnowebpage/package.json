@@ -1,7 +1,7 @@
 {
   "name": "jcmnowebpage",
   "version": "0.1.0",
-  "homepage": "https//jcmno.github.io/",
+  "homepage": "https://jcmno.github.io/",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",

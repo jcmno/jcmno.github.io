@@ -3,8 +3,12 @@
     display: flex;
     align-items:center; 
     justify-content: space-between;
-    background: white;
+    background:white;
+    position:fixed;
+    top: 0;
+    left: 0;
     padding: 20px;
+    z-index: 10;
 }
 
 ul{
@@ -16,7 +20,7 @@ ul{
 
 ul li{
     display: inline-block;
-    margin: 10px 20px;
+    margin: 5px 20px;
     font-size: 26px;
     cursor: pointer;
 }
@@ -39,10 +43,10 @@ ul li{
     vertical-align: middle;
 }
 
-.profile-pic-wrapper{
-    width: 50px;
-    height: 50px;
-    border-radius: 100%;
+.logowrap{
+    width: 80px;
+    height: 80px;
+    border-radius: 30%;
     overflow: hidden;
     display: flex;
     align-items: center; 
@@ -61,5 +65,5 @@ ul li{
 }
 
 .img{
-    border-radius: 50%;
+    width: 180px;
 }

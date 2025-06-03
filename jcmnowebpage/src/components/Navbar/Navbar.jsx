@@ -9,7 +9,7 @@ const Navbar = () => {
     
     <div className = 'navbar'>
       
-      <img src={logo} alt = "logo" className='profile-pic-wrapper' />
+      <img src={logo} alt = "logo" className='logowrap' />
 
       <h1 className="logo-text"> John Camino </h1>
     
