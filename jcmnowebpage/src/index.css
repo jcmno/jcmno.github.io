@@ -6,15 +6,14 @@
 }
 
 body{
-  background: #8ACE00;
+  background: white;
 }
 
 .container{
   width: 100vw;
   min-height: 100vh;
-  background: #8ACE00;
-  padding-left:10%;
-  padding-right:10%;
+  background: white;
+  
 
 }
 

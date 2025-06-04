@@ -1,0 +1,35 @@
+.bio{
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    padding:relative;
+    justify-content: center;
+    margin-top: 80px;
+    position: relative;
+    background: #8ACE00; 
+    padding: 20px;
+    top: 15px;
+}
+
+.bio .bio-image{
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 100%;
+    margin-left:50px;
+    
+}
+
+.bio-text{
+    display: flex;
+    flex-direction:column;
+    align-items:flex-start;
+    max-width: 45%;
+    line-height: 1.5;
+    
+}
+
+.bio-intro{
+    font-size:larger;
+
+}

@@ -12,10 +12,7 @@ const Navbar = () => {
       <img src={logo} alt = "logo" className='logowrap' />
 
       <h1 className="logo-text"> John Camino </h1>
-    
-      <div> 
-        <img src="/profilepic.png" alt="" /> 
-      </div>
+
       
       <ul className="taskbar">
         <li>
