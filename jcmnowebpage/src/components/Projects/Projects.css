@@ -5,7 +5,7 @@
 }
 
 .card{
-    border: 1px greenyellow;
+    border: 1px solid #8ACE00 ;
     border-radius: 10px;
     box-shadow: 5px 5px 5px grey;
     padding: 30px;
@@ -30,7 +30,7 @@
 .card .card-title{
     text-align: center;
     margin-bottom: 10px;
-    
+    font-size: x-large;
 }
 
 
@@ -43,4 +43,10 @@
 
 .card .card-link{
     padding-bottom: 20px;
+    color: black !important;
 }
+
+.card .image-border{
+     border: 2px solid black;
+}
+
