@@ -13,7 +13,7 @@ const Education = () => {
         <img className = 'sfu' src = {sfulogo} alt = 'Simon Fraser University logo'></img>   
 
         <ul className = 'eduTitle'>Post-Baccalaureate Diploma:</ul>
-        <ul className = 'eduTitle'>Computing Science </ul>
+        <ul className = 'edusubtitle'>Computing Science </ul>
         <div className = 'eduList'>
         <li>2025 - PRESENT</li>
         <li>Simon Fraser University</li>
@@ -26,10 +26,11 @@ const Education = () => {
         <img className = 'sfu' src = {sfulogo} alt = 'Simon Fraser University logo'></img>   
 
         <ul className = 'eduTitle'>Bachelor of Science:</ul>
-        <ul className = 'eduTitle'>Biological Sciences</ul>
+        <ul className = 'edusubtitle'>Biological Sciences (Honours)</ul>
         <div className = 'eduList'>
         <li>2015 - 2019</li>
         <li>Simon Fraser University</li>
+        <li>Cells, Molecules, & Physiology Stream</li>
         
         </div>
         </div>
