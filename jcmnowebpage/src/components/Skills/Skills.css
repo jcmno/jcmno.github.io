@@ -20,11 +20,12 @@
     overflow: hidden;
 }
 
-.skills .skillcard-title{
+.skillcard-title{
     text-align: center;
     font-size: 20;
-    margin-top: 10px;
-    border:grey;
+    margin-top: 20px;
+    
+    
 }
 
 .subtitle{
@@ -37,5 +38,4 @@
 .list-card{
     text-align: left;
     font-size: 13px;
-
 }

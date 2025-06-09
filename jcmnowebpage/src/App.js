@@ -3,6 +3,7 @@ import Navbar from './components/Navbar/Navbar';
 import Bio from './components/Bio/Bio'
 import Projects from './components/Projects/Projects'
 import Skills from './components/Skills/Skills'
+import Education from './components/Education/Education'
 
 
 const App = () => {
@@ -12,6 +13,7 @@ const App = () => {
      <Bio/>
      <Projects/>
      <Skills/>
+     <Education/>
     </div>
     
   );

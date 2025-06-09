@@ -3,6 +3,7 @@ import './Skills.css'
 import { ImLab } from "react-icons/im";
 import { FaComputer } from "react-icons/fa6";
 
+//Displays the skills section of the portfolio
 const Skills = () => {
   return (
     <div className= 'skills' >
@@ -11,13 +12,14 @@ const Skills = () => {
       <div className = 'skillcard'>
         <FaComputer size={50} />  
             <h3 className= 'skillcard-title'> Software and Technology </h3> 
+
+               
                 <ul className = 'subtitle'>Front-end</ul>
                 <div className = 'list-card'>
                 <li>Languages: HTML, CSS, JavaScript</li>
                 <li>Libraries: React.js</li>
                 <li>Version Control: Git, Github</li>
                 </div>
-                
                 
                 <ul className = 'subtitle'>Back-end</ul>
                 <div className = 'list-card'>
