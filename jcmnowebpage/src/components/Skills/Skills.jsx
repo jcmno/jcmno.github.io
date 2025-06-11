@@ -32,6 +32,22 @@ const Skills = () => {
       <div className = 'skillcard'>
         <ImLab size={50} /> 
       <h3 className = 'skillcard-title'> Laboratory and Research </h3>
+      
+      <ul className = 'subtitle'>Laboratory</ul>
+      <div className = 'list-card'>
+      <li>Lab Safety & Compliance</li>
+      <li>Calibration & Quality Control</li>
+      <li>Reagent Preparation</li>
+      </div>
+
+      <ul className = 'subtitle'>Research</ul>
+      <div className = 'list-card'>
+      <li>Experimental Design</li>
+      <li>Scientific Writing & Documentation</li>
+      <li>Data Collection & Analysis</li>
+      </div>
+
+
       </div>
 
     </div>
