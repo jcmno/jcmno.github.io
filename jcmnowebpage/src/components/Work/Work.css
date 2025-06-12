@@ -1,0 +1,21 @@
+.work{
+    width: 100vw;
+    padding: 50px;
+    text-align: center;
+    background-color:#8ACE00;  
+}
+
+.work-card{
+    border: 1px solid white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px grey;
+    padding: 30px;
+    margin: 10px;
+    text-align: flex;
+    width: 300px;
+    display:inline-block;
+    background: whitesmoke;
+    margin-top: 35px;
+    height: 320px;
+    overflow: hidden;
+}
