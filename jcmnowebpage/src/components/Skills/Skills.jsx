@@ -10,22 +10,21 @@ const Skills = () => {
       <h1>Skills</h1>
 
       <div className = 'skillcard'>
-        <FaComputer size={50} />  
+        <FaComputer size={60} />  
             <h3 className= 'skillcard-title'> Software and Technology </h3> 
 
                
                 <ul className = 'subtitle'>Front-end</ul>
                 <div className = 'list-card'>
-                <li>Languages: HTML, CSS, JavaScript</li>
-                <li>Libraries: React.js</li>
-                <li>Version Control: Git, Github</li>
+                <li className = 'list-card'>Languages: HTML, CSS, JavaScript</li>
+                <li className = 'list-card'>Libraries: React.js</li>
+                <li className = 'list-card'>Version Control: Git, Github</li>
                 </div>
                 
                 <ul className = 'subtitle'>Back-end</ul>
-                <div className = 'list-card'>
-                <li>Languages: Java, C</li>
-                <li>Tools: BlueJ, VS Code, Eclipse</li>
-                </div>
+                <li className = 'list-card'>Languages: Java, C</li>
+                <li className = 'list-card'>Tools: BlueJ, VS Code, Eclipse</li>
+              
 
       </div>      
         
@@ -34,18 +33,16 @@ const Skills = () => {
       <h3 className = 'skillcard-title'> Laboratory and Research </h3>
       
       <ul className = 'subtitle'>Laboratory</ul>
-      <div className = 'list-card'>
-      <li>Lab Safety & Compliance</li>
-      <li>Calibration & Quality Control</li>
-      <li>Reagent Preparation</li>
-      </div>
+      <li className = 'list-card'>Laboratory Safety & Compliance</li>
+      <li className = 'list-card'>Instrument Calibration & Quality Control</li>
+      <li className = 'list-card'>Reagent Preparation</li>
+     
 
       <ul className = 'subtitle'>Research</ul>
-      <div className = 'list-card'>
-      <li>Experimental Design</li>
-      <li>Scientific Writing & Documentation</li>
-      <li>Data Collection & Analysis</li>
-      </div>
+      <li className = 'list-card'>Experimental Design</li>
+      <li className = 'list-card'>Scientific Writing & Documentation</li>
+      <li className = 'list-card'>Data Collection & Analysis</li>
+    
 
 
       </div>

@@ -12,30 +12,28 @@
     padding: 30px;
     margin: 10px;
     text-align: flex;
-    width: 300px;
+    width: 400px;
     display:inline-block;
     background: whitesmoke;
     margin-top: 35px;
-    height: 320px;
+    height: 400px;
     overflow: hidden;
 }
 
 .skillcard-title{
     text-align: center;
     font-size: 20;
-    margin-top: 20px;
-    
-    
+    margin-top: 10px;
 }
 
 .subtitle{
     text-align: left;
-    padding: 10px;
-    font-weight:bolder;
+    padding-top: 20px;
+    font-weight:bold;
     text-decoration: underline;
 }
 
 .list-card{
     text-align: left;
-    font-size: 13px;
+    padding-top:10px;
 }
