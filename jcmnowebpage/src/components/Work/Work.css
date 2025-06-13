@@ -38,3 +38,15 @@
     margin-bottom: 10px;
     max-height: 120px;
 }
+
+.work-subtitle{
+    text-align:left;
+    padding-top: 20px;
+    text-decoration: underline;
+    font-weight: bold;
+}
+.work-description{
+    text-align: left;
+    padding-top: 10px;
+
+}
