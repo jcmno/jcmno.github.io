@@ -8,7 +8,7 @@ import pnelogo from '../../assets/pacific_national_exhibition_logo.jpg'
 const Work = () => {
   return (
     <div className = 'work'>
-        <h1>Work Experience</h1>
+        <h1>WORK EXPERIENCE</h1>
 
             <div className = 'work-card'>
                 <img className = 'work-logo' src = {phsalogo} alt = "Provincial Health Services Authorities logo"></img>
