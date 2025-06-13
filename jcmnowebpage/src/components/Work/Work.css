@@ -1,0 +1,52 @@
+.work{
+    width: 100vw;
+    padding: 50px;
+    text-align: center;
+    background-color:#8ACE00;  
+}
+
+.work-card{
+    border: 1px solid white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px grey;
+    padding: 30px;
+    margin: 10px;
+    text-align: flex;
+    width: 400px;
+    display:inline-block;
+    background: whitesmoke;
+    margin-top: 35px;
+    height: 500px;
+    overflow: hidden;
+}
+
+.work-title{
+    padding-top: 5px;
+    font-size:small;
+}
+
+.dates{
+    padding-top: 5px;
+    font-size: small;
+    
+}
+
+.work-logo{
+    max-width: 30%;
+    height: auto;
+    border-radius:50%;
+    margin-bottom: 10px;
+    max-height: 120px;
+}
+
+.work-subtitle{
+    text-align:left;
+    padding-top: 20px;
+    text-decoration: underline;
+    font-weight: bold;
+}
+.work-description{
+    text-align: left;
+    padding-top: 10px;
+
+}
