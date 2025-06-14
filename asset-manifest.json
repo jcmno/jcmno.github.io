@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.ed211d83.css",
-    "main.js": "/static/js/main.42f752ab.js",
+    "main.css": "/static/css/main.2942de30.css",
+    "main.js": "/static/js/main.ca923500.js",
     "static/js/453.a8cb068b.chunk.js": "/static/js/453.a8cb068b.chunk.js",
-    "static/media/profilepic.png": "/static/media/profilepic.fd20c447fdbeb2a07c70.png",
+    "static/media/Robot.jpg": "/static/media/Robot.8f884ac0426e9244468f.jpg",
+    "static/media/Gates.jpg": "/static/media/Gates.2ea97edde0a8981e466e.jpg",
+    "static/media/Nara.jpg": "/static/media/Nara.f2fe618b1f6433e64c10.jpg",
+    "static/media/Shibuya.jpg": "/static/media/Shibuya.6b1d4545ad61de98c1b1.jpg",
+    "static/media/profilepic.png": "/static/media/profilepic.3ebbf95e2d65bab7df1f.png",
     "static/media/Starbucks-logo.png": "/static/media/Starbucks-logo.b2aca812c2531b8fa1f6.png",
-    "static/media/Travel.png": "/static/media/Travel.b10fa72801c9659308c9.png",
-    "static/media/BIOPOLIS.png": "/static/media/BIOPOLIS.4f5eda25c62cf7b80d71.png",
+    "static/media/Travel.png": "/static/media/Travel.ad319cf788db0b6554ec.png",
+    "static/media/VancouverSun.png": "/static/media/VancouverSun.8a5edc2bdeb4b04ca914.png",
+    "static/media/BIOPOLIS.png": "/static/media/BIOPOLIS.d00d8fca31d61147a90e.png",
     "static/media/sfu.png": "/static/media/sfu.8440d60f4d3e667c78fa.png",
-    "static/media/VancouverSun.png": "/static/media/VancouverSun.5f9390fcc2d61efd9b46.png",
     "static/media/PHSA Logo.png": "/static/media/PHSA Logo.1edf167c83591d3d3db0.png",
     "index.html": "/index.html",
-    "main.ed211d83.css.map": "/static/css/main.ed211d83.css.map",
-    "main.42f752ab.js.map": "/static/js/main.42f752ab.js.map",
+    "main.2942de30.css.map": "/static/css/main.2942de30.css.map",
+    "main.ca923500.js.map": "/static/js/main.ca923500.js.map",
     "453.a8cb068b.chunk.js.map": "/static/js/453.a8cb068b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed211d83.css",
-    "static/js/main.42f752ab.js"
+    "static/css/main.2942de30.css",
+    "static/js/main.ca923500.js"
   ]
 }
