@@ -6,7 +6,7 @@
     justify-content: center;
     margin-top: 80px;
     position: relative;
-    background: #8ACE00; 
+    background: #89ce00ad; 
     padding: 20px;
     top: 15px;
 }
@@ -26,8 +26,14 @@
     align-items:flex-start;
     max-width: 45%;
     line-height: 1.5;
-    
+
+    box-shadow: 5px 5px 5px grey;
+    background: whitesmoke;
+    border-radius: 10px;
+    padding: 30px;
+   
 }
+
 
 .bio-intro{
     font-size:larger;
