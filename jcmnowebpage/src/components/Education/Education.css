@@ -8,15 +8,16 @@
     border: 1px ;
     border-radius: 10px;
     box-shadow: 5px 5px 5px grey;
-    padding: 20px;
+    padding: 30px;
     width: 400px;
     margin: 10px;
     margin-top: 35px;
     height: 280px;
-    margin-top: 20;
+    margin-top: 35px;
     background: #89ce0042;
     display: inline-block;
     overflow: hidden;
+    text-align: flex;
 }
 
 .eduTitle{
