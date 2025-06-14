@@ -8,20 +8,20 @@ import biopolis from '../../assets/BIOPOLIS.png'
 const Projects = () => {
   return (
     <div className = 'project'>
-      <h1>Featured Projects</h1>
+      <h1>FEATURED PROJECTS</h1>
 
       <div className = 'card'> 
-      <img className = 'image-border card-image' src={logo} alt="Icon" />
+      <img className = ' card-image' src={logo} alt="Icon" />
       <h2 className = 'card-title'>Portfolio</h2>
       <p className ='card-text'>A personal website that showcases my projects, work, skills, and hobbies.</p>
-      <a className='card-link' href ="https://jcmno.github.io/"> Learn more </a>
+      <a className='card-link' href ="https://jcmno.github.io/">GitHub Repo Link</a>
       </div>  
 
       <div className = 'card'> 
       <img className = 'card-image' src={travel} alt="Icon" />
-      <h2 className = 'card-title'>Tripinary</h2>
+      <h2 className = 'card-title'>TRIPINARY</h2>
       <p className ='card-text'>A travel planner that generates a personalized itinerary based on the location of interest.</p>
-      <a className='card-link'href ="Project1page"> Learn more </a>
+      <a className='card-link'href ="Project1page">GitHub Repo Link</a>
       </div>  
 
       <div className = 'card'> 
@@ -36,7 +36,7 @@ const Projects = () => {
       <img className = 'card-image' src={vs} alt="Icon" />
       <h2 className = 'card-title'>Published Op-ed</h2>
       <p className ='card-text'>Opinion piece published in the Vancouver Sun titled "Bike lanes versus nature a conundrum." </p>
-      <a className='card-link'href ="https://vancouversun.com/opinion/op-ed/opinion-bike-lanes-versus-nature-a-conundrum"> Learn more </a>
+      <a className='card-link'href ="https://vancouversun.com/opinion/op-ed/opinion-bike-lanes-versus-nature-a-conundrum">Article Link</a>
       </div>  
 
     </div>

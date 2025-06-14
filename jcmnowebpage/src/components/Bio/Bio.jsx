@@ -10,8 +10,9 @@ function Bio() {
           <h1>Hello, I'm John Camino</h1>
           </div>  
 
-        <p>A microbiology lab assistant pursuing a degree in computing science in hopes of transitioning 
-        into the tech industry. Outside of work and school, you can find me out in the wilderness for a hike 
+        <p>A microbiology lab assistant pursuing a degree in computing science to transition
+        into the world of technology. </p>
+        <p>Outside of work and school, you can find me out in the wilderness for a hike 
         or exploring a new city.
         </p>
         </div>

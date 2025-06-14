@@ -5,23 +5,23 @@
 }
 
 .card{
-    border: 1px solid #8ACE00 ;
+    border: 1px ;
     border-radius: 10px;
     box-shadow: 5px 5px 5px grey;
     padding: 30px;
     margin: 10px;
     text-align: flex;
-    width: 300px;
+    width: 320px;
     display:inline-block;
-    background: #8ACE00;
+    background: #89ce0042;
     margin-top: 35px;
-    height: 320px;
+    height: 330px;
     overflow: hidden;
 }
 
 .card .card-image{
     max-width: 60%;
-    height: auto;
+    max-height: 60%;
     border-radius:50%;
     margin-bottom: 10px;
     max-height: 120px;
@@ -36,14 +36,19 @@
 
 .card .card-text{
     text-align: center;
-    flex-grow:1;
+    flex-grow: 1;
     overflow: auto;
     margin-bottom: 10px;
+
+    border-radius: 10px;
+    padding: 10px;
+    
 }
 
 .card .card-link{
-    padding-bottom: 20px;
-    color: black !important;
+    
+    padding: 20px;
+    
 }
 
 .card .image-border{
