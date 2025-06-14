@@ -7,6 +7,7 @@ import { FaComputer } from "react-icons/fa6";
 const Skills = () => {
   return (
     <div className= 'skills' >
+      <section id="Skills"></section>
       <h1>SKILLS</h1>
 
       <div className = 'skillcard'>

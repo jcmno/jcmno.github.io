@@ -5,6 +5,7 @@ import profilepic from '../../assets/profilepic.png'
 function Bio() {
   return (
     <div className="bio">
+      <section id="Home"></section>
         <div className="bio-text">
           <div className="bio-intro">
           <h1>Hello, I'm John Camino</h1>

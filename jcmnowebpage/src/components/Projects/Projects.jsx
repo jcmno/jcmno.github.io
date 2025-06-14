@@ -8,6 +8,8 @@ import biopolis from '../../assets/BIOPOLIS.png'
 const Projects = () => {
   return (
     <div className = 'project'>
+      <section id="Projects"></section>
+
       <h1>FEATURED PROJECTS</h1>
 
       <div className = 'card'> 

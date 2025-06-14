@@ -8,6 +8,7 @@ import pnelogo from '../../assets/pacific_national_exhibition_logo.jpg'
 const Work = () => {
   return (
     <div className = 'work'>
+        <section id="Work"></section>
         <h1>WORK EXPERIENCE</h1>
 
             <div className = 'work-card'>
