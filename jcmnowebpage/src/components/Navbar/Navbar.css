@@ -12,7 +12,6 @@
 }
 
 ul{
-    flex: 2;
     list-style: none;
     text-align: right;
 
@@ -20,13 +19,14 @@ ul{
 
 ul li{
     display: inline-block;
-    margin: 5px 20px;
+    margin: 10px;
     font-size: 30px;
     cursor: pointer;
+    
 }
 
 .navbar a{
-  color: black !important;
+  color: black;
   text-decoration: none;
 }
 
@@ -72,7 +72,20 @@ ul li{
     display:flex;
     gap: 20px;
     padding: 20px; 
-
-    
+    font-size: 20px;
 }
 
+.connect{
+    text-align: right;
+    flex:9;
+    list-style: none;
+    padding-bottom: 3px;
+    font-size:20px;
+}
+
+.button{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #89ce0042;
+    border-radius: 8px;
+}

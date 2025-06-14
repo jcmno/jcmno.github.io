@@ -17,28 +17,34 @@ const Navbar = () => {
       
       <div className = "navigation">
 
-        <a href="#Home">Home</a>
-        <a href="#Projects">Projects</a>
-        <a href="#Skills">Skills</a>
-        <a href="#Education">Education</a>
-        <a href="#Work">Work</a>
-        <a href="#Hobbies">Hobbies</a>
+        <a className = "button" href="#Home">Home</a>
+        <a className = "button" href="#Projects">Projects</a>
+        <a className = "button" href="#Skills">Skills</a>
+        <a className = "button" href="#Education">Education</a>
+        <a className = "button" href="#Work">Work</a>
+        <a className = "button" href="#Hobbies">Hobbies</a>
 
 
       </div>
 
-      <ul className="links">
+      <p className= "connect">Connect with me:</p>
+      <ul className= "links">
+       
+        
         <li>
-             <a href = "https://www.linkedin.com/in/john-aldrix-camino/"> <FaLinkedin/></a>
+             <a href = "https://www.linkedin.com/in/john-aldrix-camino/"> <FaLinkedin /></a>
         </li>
+
         <li> 
-            <a href = "https://github.com/jcmno"> <FaGithub /></a>    
+            <a href = "https://github.com/jcmno"> <FaGithub  /></a>    
         </li>
+
         <li>
-            <a href = "https://www.instagram.com/john_camino/"><FaInstagramSquare/></a>
+            <a href = "https://www.instagram.com/john_camino/"><FaInstagramSquare /></a>
         </li>
+
         <li> 
-            <a href="mailto:jcamino@sfu.ca"> <FaEnvelope/> </a>
+            <a href="mailto:jcamino@sfu.ca"> <FaEnvelope /> </a>
 
         </li>
       </ul>
