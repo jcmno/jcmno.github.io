@@ -5,7 +5,8 @@ import sfulogo from '../../assets/sfu.png'
 const Education = () => {
   return (
     <div className = 'education'>
-
+      
+      <section id="Education"></section>
         <h1>EDUCATION</h1>
 
         <div className = 'educard'>

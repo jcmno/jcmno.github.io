@@ -8,6 +8,7 @@ import nara from '../../assets/Nara.jpg'
 const Hobbies = () => {
   return (
     <div className = 'hobbies'>
+        <section id="Hobbies"></section>
       <h1 className = 'title'>HOBBIES</h1>
 
         <div className = 'summary'>

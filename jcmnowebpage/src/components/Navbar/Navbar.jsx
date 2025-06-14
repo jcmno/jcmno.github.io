@@ -9,12 +9,25 @@ const Navbar = () => {
     
     <div className = 'navbar'>
       
+      
       <img src={logo} alt = "logo" className='logowrap' />
 
       <h1 className="logo-text"> John Camino </h1>
 
       
-      <ul className="taskbar">
+      <div className = "navigation">
+
+        <a href="#Home">Home</a>
+        <a href="#Projects">Projects</a>
+        <a href="#Skills">Skills</a>
+        <a href="#Education">Education</a>
+        <a href="#Work">Work</a>
+        <a href="#Hobbies">Hobbies</a>
+
+
+      </div>
+
+      <ul className="links">
         <li>
              <a href = "https://www.linkedin.com/in/john-aldrix-camino/"> <FaLinkedin/></a>
         </li>
@@ -25,8 +38,7 @@ const Navbar = () => {
             <a href = "https://www.instagram.com/john_camino/"><FaInstagramSquare/></a>
         </li>
         <li> 
-            <a href="mailto:jcamino@sfu.ca"> <FaEnvelope/> 
-            <span className="smallertext"> Contact me </span></a>
+            <a href="mailto:jcamino@sfu.ca"> <FaEnvelope/> </a>
 
         </li>
       </ul>

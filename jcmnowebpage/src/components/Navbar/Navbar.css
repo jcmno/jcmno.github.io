@@ -67,3 +67,12 @@ ul li{
 .img{
     width: 180px;
 }
+
+.navigation{
+    display:flex;
+    gap: 20px;
+    padding: 20px; 
+
+    
+}
+
