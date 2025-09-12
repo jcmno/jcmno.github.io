@@ -23,7 +23,7 @@ const Projects = () => {
       <img className = 'card-image' src={travel} alt="Icon" />
       <h2 className = 'card-title'>TRIPINARY</h2>
       <p className ='card-text'>A travel planner that generates a personalized itinerary based on the location of interest.</p>
-      <span style={{textDecoration: 'underline' }}>Link not available</span>
+      <a className='card-link' href ="https://github.com/CMPT-276-SUMMER-2025/final-project-02-peak">GitHub Repo Link</a>
       </div>  
 
       <div className = 'card'> 
