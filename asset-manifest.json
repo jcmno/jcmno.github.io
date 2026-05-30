@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.bcce838c.css",
-    "main.js": "/static/js/main.a7b0c593.js",
+    "main.js": "/static/js/main.e5980a6c.js",
     "static/js/453.a8cb068b.chunk.js": "/static/js/453.a8cb068b.chunk.js",
     "static/media/Robot.jpg": "/static/media/Robot.8f884ac0426e9244468f.jpg",
     "static/media/Gates.jpg": "/static/media/Gates.2ea97edde0a8981e466e.jpg",
@@ -11,16 +11,16 @@
     "static/media/Starbucks-logo.png": "/static/media/Starbucks-logo.b2aca812c2531b8fa1f6.png",
     "static/media/Travel.png": "/static/media/Travel.ad319cf788db0b6554ec.png",
     "static/media/VancouverSun.png": "/static/media/VancouverSun.8a5edc2bdeb4b04ca914.png",
-    "static/media/BIOPOLIS.png": "/static/media/BIOPOLIS.d00d8fca31d61147a90e.png",
+    "static/media/ecobits.png": "/static/media/ecobits.26f33cc2a103e2e844cd.png",
     "static/media/sfu.png": "/static/media/sfu.8440d60f4d3e667c78fa.png",
     "static/media/PHSA Logo.png": "/static/media/PHSA Logo.1edf167c83591d3d3db0.png",
     "index.html": "/index.html",
     "main.bcce838c.css.map": "/static/css/main.bcce838c.css.map",
-    "main.a7b0c593.js.map": "/static/js/main.a7b0c593.js.map",
+    "main.e5980a6c.js.map": "/static/js/main.e5980a6c.js.map",
     "453.a8cb068b.chunk.js.map": "/static/js/453.a8cb068b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bcce838c.css",
-    "static/js/main.a7b0c593.js"
+    "static/js/main.e5980a6c.js"
   ]
 }
