@@ -4,6 +4,7 @@ import logo from '../../assets/apple-touch-icon.png'
 import vs from '../../assets/VancouverSun.png'
 import travel from '../../assets/Travel.png'
 import biopolis from '../../assets/BIOPOLIS.png'
+import isaac from '../../assets/isaac.png'
 
 const Projects = () => {
   return (
@@ -13,10 +14,10 @@ const Projects = () => {
       <h1>FEATURED PROJECTS</h1>
 
       <div className = 'card'> 
-      <img className = ' card-image' src={logo} alt="Icon" />
-      <h2 className = 'card-title'>Portfolio</h2>
-      <p className ='card-text'>A personal website that showcases my projects, work, skills, and hobbies.</p>
-      <a className='card-link' href ="https://jcmno.github.io/">GitHub Repo Link</a>
+      <img className = 'card-image' src={isaac} alt="Icon" />
+      <h2 className = 'card-title'>AI-Isaac</h2>
+      <p className ='card-text'>Built an AI agent for the game "The Binding of Isaac".</p>
+      <a className='card-link' href ="https://github.com/jcmno/AI-Isaac">GitHub Repo Link</a>
       </div> 
 
       <div className = 'card'> 
