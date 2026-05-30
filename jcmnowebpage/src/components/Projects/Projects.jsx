@@ -4,7 +4,7 @@ import logo from '../../assets/apple-touch-icon.png'
 import vs from '../../assets/VancouverSun.png'
 import travel from '../../assets/Travel.png'
 import isaac from '../../assets/isaac.png'
-import ecobits from '../../assets/ecobits.jpg'
+import ecobits from '../../assets/ecobits.png'
 
 const Projects = () => {
   return (
