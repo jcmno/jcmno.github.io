@@ -3,8 +3,8 @@ import './Projects.css'
 import logo from '../../assets/apple-touch-icon.png'
 import vs from '../../assets/VancouverSun.png'
 import travel from '../../assets/Travel.png'
-import biopolis from '../../assets/BIOPOLIS.png'
 import isaac from '../../assets/isaac.png'
+import ecobits from '../../assets/ecobits.png'
 
 const Projects = () => {
   return (
@@ -16,7 +16,7 @@ const Projects = () => {
       <div className = 'card'> 
       <img className = 'card-image' src={isaac} alt="Icon" />
       <h2 className = 'card-title'>AI-Isaac</h2>
-      <p className ='card-text'>Built an AI agent for the game "The Binding of Isaac".</p>
+      <p className ='card-text'>A Deep-Q Learning (DQN) AI agent that learns to play The Binding of Isaac using a custom Lua–Python bridge.</p>
       <a className='card-link' href ="https://github.com/jcmno/AI-Isaac">GitHub Repo Link</a>
       </div> 
 
@@ -24,7 +24,7 @@ const Projects = () => {
       <img className = ' card-image' src={logo} alt="Icon" />
       <h2 className = 'card-title'>Portfolio</h2>
       <p className ='card-text'>A personal website that showcases my projects, work, skills, and hobbies.</p>
-      <a className='card-link' href ="https://jcmno.github.io/">GitHub Repo Link</a>
+      <a className='card-link' href ="https://github.com/jcmno/jcmno.github.io">GitHub Repo Link</a>
       </div>  
 
       <div className = 'card'> 
@@ -35,21 +35,18 @@ const Projects = () => {
       </div>  
 
       <div className = 'card'> 
-      <img className = 'card-image' src={biopolis} alt="Icon" />
-      <h2 className = 'card-title'>BIOPOLIS</h2>
-      <p className = 'card-text'>A card game to spark curiosity and awareness about our local biodiversity.</p>
-      <a className='card-link' href ="https://citystudiovancouver.com/projects/biopolis-the-card-game/"> Learn more </a>
+      <img className = 'card-image' src={ecobits} alt="Icon" />
+      <h2 className = 'card-title'>EcoBits</h2>
+      <p className = 'card-text'>EcoBits is an eco‑friendly habit tracker that transforms sustainability into a rewarding game.</p>
+      <a className='card-link' href ="https://devpost.com/software/ecobits"> Learn more </a>
       </div>  
 
       <div className = 'card'> 
-
       <img className = 'card-image' src={vs} alt="Icon" />
       <h2 className = 'card-title'>Published Op-ed</h2>
       <p className ='card-text'>Opinion piece published in the Vancouver Sun titled "Bike lanes versus nature a conundrum." </p>
       <a className='card-link'href ="https://vancouversun.com/opinion/op-ed/opinion-bike-lanes-versus-nature-a-conundrum">Learn more</a>
       </div>
-
- 
 
     </div>
   )
