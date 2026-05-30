@@ -4,7 +4,7 @@ import logo from '../../assets/apple-touch-icon.png'
 import vs from '../../assets/VancouverSun.png'
 import travel from '../../assets/Travel.png'
 import isaac from '../../assets/isaac.png'
-import ecobits from '../../assets/ecobits.png'
+import ecobits from '../../assets/ecobits.jpg'
 
 const Projects = () => {
   return (
@@ -30,7 +30,7 @@ const Projects = () => {
       <div className = 'card'> 
       <img className = 'card-image' src={travel} alt="Icon" />
       <h2 className = 'card-title'>TRIPINARY</h2>
-      <p className ='card-text'>A travel planner that generates a personalized itinerary based on the location of interest.</p>
+      <p className ='card-text'>A travel planner that generates a personalized itinerary based on the users' location of interest.</p>
       <a className='card-link' href ="https://tripinary-one.vercel.app/">Website link</a>
       </div>  
 
