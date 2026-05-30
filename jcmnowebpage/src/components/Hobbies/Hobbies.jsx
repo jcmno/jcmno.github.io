@@ -12,10 +12,9 @@ const Hobbies = () => {
       <h1 className = 'title'>HOBBIES</h1>
 
         <div className = 'summary'>
-        <h2 className = 'hobbysubtitle'>Travel and Outdoors</h2>
         <p className = 'textsummary'>In my free time, I enjoy traveling and spending time outdoors. I value staying active and exploring the world while I can.
             One of my favorite recent adventures was visiting Japan (pictured below). 
-            If you want to see more of my travels or to see what I am up to, checkout my <a href = "https://www.instagram.com/john_camino/">Instagram</a>.
+            If you want to see more of my travels or what I am up to, checkout my <a href = "https://www.instagram.com/john_camino/">Instagram</a>.
         </p>
 
         <div className = 'photoalignment'>
