@@ -12,10 +12,10 @@ const Education = () => {
         <div className = 'educard'>
 
         <img className = 'sfu' src = {sfulogo} alt = 'Simon Fraser University logo'></img>   
-        <ul className = 'eduTitle'>Post-Baccalaureate Diploma:</ul>
+        <ul className = 'eduTitle'>Bachelor of Science:</ul>
         <ul className = 'edusubtitle'>Computing Science </ul>
         
-        <li className = 'eduList'>2025 - PRESENT</li>
+        <li className = 'eduList'>2025 - 2027</li>
         <li className = 'eduList'>Simon Fraser University</li>
         
         
